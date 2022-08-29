@@ -57,6 +57,7 @@ public class Main {
             }
         }
     }
+
     public static void shopList(List<String> listGoods) {
         if (listGoods.isEmpty()) {
             System.out.println("Список покупок пуст.");
